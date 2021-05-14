@@ -27,7 +27,7 @@ def check_words(list, words):
 
 
 def check_english(list):
-    with open("src/words_english.txt", "r") as words:
+    with open("./src/words_english.txt", "r") as words:
         solution = check_words(list, words)
         if len(solution) == 0:
             return "Wort konnte im Englischen nicht gefunden werden."
@@ -38,7 +38,7 @@ def check_english(list):
 
 
 def check_german(list):
-    with open("src/words_german.txt", "r") as words:
+    with open("./src/words_german.txt", "r") as words:
         solution = check_words(list, words)
         if len(solution) == 0:
             return "Wort konnte im Deutschen nicht gefunden werden."
