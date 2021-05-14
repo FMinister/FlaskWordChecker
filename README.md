@@ -1,7 +1,7 @@
   <h3 align="center">FlaskWordChecker</h3>
 
   <p align="center">
-    Kleine Website, die dem Loesen von Bommis Raetseln dient.
+    Kleine Website, die dem Lösen von Bommis Rätseln dient.
   </p>
 
 
@@ -24,11 +24,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -37,9 +33,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Um allen Mitschuelern die Moeglichkeit zu geben, schnell und einfach
-[Bommis](https://www.bommi2000.de) Raetsel zu loesen und weil ich einfach mal
+Um allen Mitschülern die Möglichkeit zu geben, schnell und einfach
+[Bommis](https://www.bommi2000.de) Rätsel zu lösen und weil ich einfach mal
 eine Website mit Flask bauen wollte, ist hier meine kleine Umsetzung.
+
+Damit können leider nur die Wort-Rätsel geloest werden. Bilder- und Satz-Rätsel
+müssen leider noch per Hand gelöst werden.
 
 ### Built With
 
@@ -52,7 +51,7 @@ eine Website mit Flask bauen wollte, ist hier meine kleine Umsetzung.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Um das Projekt lokal zu starten wird [Python](https://python.org) > 3.5 benoetigt.
+Um das Projekt lokal zu starten wird [Python](https://python.org) > 3.5 benötigt.
 
 ### Installation
 
@@ -69,7 +68,7 @@ Danach ist die Anwendung schon bereit.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Buchstaben der Raetsel in das Textfeld eintragen und loslegen.
+Buchstaben der Rätsel in das Textfeld eintragen und loslegen.
 
 <!-- CONTRIBUTING -->
 ## Contributing
